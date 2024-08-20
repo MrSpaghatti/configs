@@ -1,0 +1,12 @@
+{
+  "addons": [
+    {
+      "id": "visu",
+      "mod_version": "2",
+      "name": "visu",
+      "path": ".",
+      "type": "plugin",
+      "version": "0.1"
+    }
+  ]
+}

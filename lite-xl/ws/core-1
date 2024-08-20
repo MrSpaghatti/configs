@@ -1,0 +1,1 @@
+return { path = "/home/spag/lite/data/core", documents = {["views"]={[1]={["scroll"]={["x"]=0,["y"]=0},["selection"]={[1]=6,[2]=2,[3]=6,[4]=2},["text"]=false,["filename"]="init.lua",["active"]=true,["type"]="doc"}},["active_view"]=1,["type"]="leaf"}, directories = {} }

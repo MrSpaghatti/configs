@@ -1,0 +1,13 @@
+{
+  "addons": [
+    {
+      "id": "keyhud",
+      "description": "Simple *key HUD* for Lite XL",
+      "mod_version": "3",
+      "path": ".",
+      "type": "plugin",
+      "version": "0.2.3",
+      "dependencies": {}
+    }
+  ]
+}

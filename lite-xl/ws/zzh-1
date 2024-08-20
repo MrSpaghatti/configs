@@ -1,0 +1,1 @@
+return { path = "/home/spag/zzh", documents = {["type"]="leaf",["active_view"]=1,["views"]={[1]={["filename"]="diffie-example.zig",["type"]="doc",["active"]=true,["scroll"]={["y"]=0,["x"]=0},["text"]=false,["selection"]={[1]=18,[2]=20,[3]=18,[4]=20}}}}, directories = {} }

@@ -1,0 +1,12 @@
+{
+  "addons": [
+    {
+      "id": "theme16",
+      "mod_version": "3.0.0",
+      "name": "theme16",
+      "path": ".",
+      "type": "plugin",
+      "version": "0.1"
+    }
+  ]
+}

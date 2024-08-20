@@ -1,0 +1,1 @@
+return { path = "/home/spag/zig-tools", documents = {["type"]="leaf",["views"]={[1]={["filename"]="netpunch/timing.zig",["text"]=false,["active"]=true,["type"]="doc",["scroll"]={["x"]=9.0,["y"]=356.32420966029},["selection"]={[1]=36,[2]=5,[3]=36,[4]=5}}},["active_view"]=1}, directories = {} }

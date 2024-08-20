@@ -1,0 +1,12 @@
+{
+  "addons": [
+    {
+      "id": "updatechecker",
+      "mod_version": "1",
+      "name": "updatechecker",
+      "path": ".",
+      "type": "plugin",
+      "version": "0.1"
+    }
+  ]
+}

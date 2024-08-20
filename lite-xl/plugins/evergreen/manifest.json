@@ -1,0 +1,12 @@
+{
+  "addons": [
+    {
+      "id": "evergreen",
+      "mod_version": "3",
+      "name": "evergreen",
+      "path": ".",
+      "type": "plugin",
+      "version": "0.1"
+    }
+  ]
+}
